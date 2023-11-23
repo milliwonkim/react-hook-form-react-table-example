@@ -109,6 +109,10 @@ const AGE = [
   { name: "45", id: "3", value: 19 },
   { name: "45", id: "3", value: 39 },
   { name: "45", id: "3", value: 28 },
+  { name: "45", id: "3", value: 22 },
+  { name: "45", id: "3", value: 9 },
+  { name: "45", id: "3", value: 24 },
+  { name: "45", id: "3", value: 18 },
 ];
 
 const columnHelper = createColumnHelper<Person>();
